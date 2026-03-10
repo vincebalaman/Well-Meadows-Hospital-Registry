@@ -11,7 +11,7 @@ Follow these commands when first setting up the project, if you've already done 
 
 ### Installation & Setup
 
-**1. Change directory **
+**1. Change directory**
 
 Open your terminal and run the following command to change the directory to your desired location
 
@@ -19,7 +19,6 @@ Open your terminal and run the following command to change the directory to your
 cd (full_directory_here)
 
 ```
----
 
 **2. Clone the repository**
 
