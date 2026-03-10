@@ -13,7 +13,7 @@ Follow these commands when first setting up the project, if you've already done 
 
 **1. Change directory**
 
-Open your terminal and run the following command to change the directory to your desired location
+Open your git cmd and run the following command to change the directory to your desired location
 
 ```bash
 cd (full_directory_here)
@@ -43,7 +43,7 @@ git pull origin main
 
 ### CREATE YOUR OWN BRANCH
 **1. Create a branch for a specific feature**
-create a isolated branch for the a specific feature to be added 
+Create a isolated branch for the a specific feature to be added 
 Create and switch to the new branch by running this command:
 
 ```bash
