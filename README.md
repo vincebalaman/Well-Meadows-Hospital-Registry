@@ -7,7 +7,7 @@ Registry Website as a Requirement for our Web Systems and Information Management
 
 ## First set up
 
-Follow these commands when first setting up the project, if you've already done this step and you already have a local repository, proceed to <a href="#branch">Branch Instructions</a>
+Follow these commands when first setting up the project, if you've already done this step and you already have a local repository, proceed to <a href="#branch">Branch Instructions</a> after setting up you can then follow the <a href="#running">Running Instructions</a>
 
 ### Installation & Setup
 
@@ -58,5 +58,29 @@ git add .
 git commit -m "Description of your commit"
 git push origin branch_name
 ```
+
+---
+
+## RUNNING THE PROGRAM <p id="running"></p>
+
+### Running the server
+**1. Change directory to backend**
+in your vscode terminal, change the directory to 
+```bash
+cd backend
+
+```
+
+**2. Run the dev script**
+After changing directory to the backend, use the terminal and run the dev
+script using: 
+```bash
+npm run dev
+```
+
+### Running the program
+**1. Run the index.html via live serve**
+in your vscode open the frontend, right click on the index.html and then
+click on open with live serve (needs the live server extension to be installed)
 
 ---
